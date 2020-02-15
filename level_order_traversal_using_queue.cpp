@@ -43,6 +43,7 @@ vector <vector<int>> levelOrder(TreeNode *root)
         }
     }
     res.push_back(current);
+    // reverse(res.begin(),res.end()); // to get reverse level order traversal
     return res;
 }
 int main()
