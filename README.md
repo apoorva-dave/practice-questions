@@ -1,11 +1,17 @@
 # practice-questions
-Practice questions for interviews
-the website where you can practice :
-1)HackerRank
-2)HackerEarth
-3)GreeksForGreek
-4)Interview bit
-5)Leet Code
-6)CodeForce
-7)Codechef
+# Practice problems for interviews
+
+1)[HackerRank](https://www.hackerrank.com/)
+
+2)[HackerEarth](https://www.hackerearth.com/)
+
+3)[GreeksForGreek](https://www.geeksforgeeks.org/)
+
+4)[Interview bit](https://www.interviewbit.com/)
+
+5)[Leet Code](https://leetcode.com/)
+
+6)[CodeForce](http://codeforces.com/https://www.codechef.com/)
+
+7)[Codechef](https://www.codechef.com/)
 
